@@ -1,17 +1,19 @@
 about:
-  description: sbt, the interactive build tool
+  description:
+  |
+    sbt, the interactive build tool
   license: Apache-2.0
   homepage: https://scala-sbt.org
   head: ffe095f
   archived: false
   latestVersion: v2.0.8
-  collectedAt: 2026-09-03T05:13:53Z
+  collectedAt: 2026-09-03T22:36:19Z
 timeline:
   created: 2009-08-17
   lastCommit: 2026-09-01
   lastRelease: 2026-08-28
 popularity:
-  star: 4948
+  star: 4947
   watcher: 156
   fork: 1045
   release: 200
@@ -31,7 +33,7 @@ language:
   C: 971
   C++: 508
   PowerShell: 408
-totalLine: 5346042
+totalBytes: 5346042
 recent:
   last30d:
     since: 2026-08-04
