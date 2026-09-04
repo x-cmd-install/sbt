@@ -1,0 +1,69 @@
+about:
+  description:
+  |
+    sbt, the interactive build tool
+  license: Apache-2.0
+  homepage: https://scala-sbt.org
+  head: 9a858d1
+  archived: false
+  latestVersion: v2.0.8
+  collectedAt: 2026-09-04T04:40:03Z
+timeline:
+  created: 2009-08-17
+  lastCommit: 2026-09-04
+  lastRelease: 2026-08-28
+popularity:
+  star: 4947
+  watcher: 156
+  fork: 1045
+  release: 200
+  contributor: 457
+  pullRequest: 810
+  issue: 4787
+language:
+  Scala: 5066016
+  Java: 166608
+  Shell: 60280
+  Batchfile: 41502
+  Makefile: 4356
+  HTML: 3233
+  Roff: 2863
+  Dockerfile: 2577
+  Python: 1030
+  C: 971
+  C++: 508
+  PowerShell: 408
+totalBytes: 5350352
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 78
+    openPR: 12
+    closedIssue: 20
+    openIssue: 28
+    commit: 85
+  last90d:
+    since: 2026-06-06
+    release: 16
+    mergedPR: 243
+    openPR: 16
+    closedIssue: 80
+    openIssue: 43
+    commit: 225
+  last180d:
+    since: 2026-03-08
+    release: 27
+    mergedPR: 528
+    openPR: 22
+    closedIssue: 148
+    openIssue: 60
+    commit: 472
+  last360d:
+    since: 2025-09-09
+    release: 42
+    mergedPR: 921
+    openPR: 27
+    closedIssue: 279
+    openIssue: 61
+    commit: 985
