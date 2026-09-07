@@ -5,7 +5,7 @@ about:
   head: d450764
   archived: false
   latestVersion: "v2.0.8"
-  collectedAt: 2026-09-07T05:03:10Z
+  collectedAt: 2026-09-07T19:33:04Z
 timeline:
   created: 2009-08-17
   lastCommit: 2026-09-04
@@ -16,7 +16,7 @@ popularity:
   fork: 1045
   release: 200
   contributor: 454
-  pullRequest: 4691
+  pullRequest: 4693
   issue: 4792
 language:
   Scala: 5066064
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-08
     release: 3
     mergedPR: 71
-    openPR: 17
+    openPR: 19
     closedIssue: 21
     openIssue: 28
     commit: 73
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-09
     release: 10
     mergedPR: 177
-    openPR: 20
+    openPR: 22
     closedIssue: 49
     openIssue: 38
     commit: 166
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-09
     release: 15
     mergedPR: 233
-    openPR: 21
+    openPR: 23
     closedIssue: 75
     openIssue: 44
     commit: 218
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-11
     release: 27
     mergedPR: 519
-    openPR: 27
+    openPR: 29
     closedIssue: 148
     openIssue: 63
     commit: 447
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-12
     release: 42
     mergedPR: 922
-    openPR: 32
+    openPR: 34
     closedIssue: 281
     openIssue: 64
     commit: 972
@@ -77,20 +77,20 @@ recent:
     since: 2024-09-17
     release: 66
     mergedPR: 1261
-    openPR: 34
+    openPR: 36
     closedIssue: 476
     openIssue: 74
     commit: 1846
 total:
   release: 200
   mergedPR: 3876
-  openPR: 39
+  openPR: 41
   closedIssue: 4320
   openIssue: 472
   commit: 18280
 ---
 path: /home/runner/.x-repo/github.com/sbt/sbt
-collectedAt: 2026-09-07T05:03:17Z
+collectedAt: 2026-09-07T19:33:11Z
 loc:
   Scala:
     code: 109318
@@ -330,7 +330,7 @@ checks:
       - 'Warn: 0 commits out of 28 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:03:18+00:00
+  collectedAt: 2026-09-07T19:33:12+00:00
   platform:
     darwin/arm64:
       name:  null
