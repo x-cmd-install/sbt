@@ -2,10 +2,10 @@ about:
   description: "sbt, the interactive build tool"
   license: Apache-2.0
   homepage: https://scala-sbt.org
-  head: 40e8ebf
+  head: f389e67
   archived: false
   latestVersion: "v2.0.8"
-  collectedAt: 2026-09-08T02:09:05Z
+  collectedAt: 2026-09-08T05:08:33Z
 timeline:
   created: 2009-08-17
   lastCommit: 2026-09-08
@@ -16,10 +16,10 @@ popularity:
   fork: 1045
   release: 200
   contributor: 454
-  pullRequest: 4694
+  pullRequest: 4695
   issue: 4793
 language:
-  Scala: 5067625
+  Scala: 5099365
   Java: 166608
   Shell: 60280
   Batchfile: 41502
@@ -31,72 +31,72 @@ language:
   C: 971
   C++: 508
   PowerShell: 408
-totalBytes: 5351961
+totalBytes: 5383701
 recent:
   last30d:
     since: 2026-08-09
     release: 3
-    mergedPR: 74
+    mergedPR: 75
     openPR: 16
-    closedIssue: 23
-    openIssue: 27
-    commit: 77
+    closedIssue: 24
+    openIssue: 26
+    commit: 79
   last60d:
     since: 2026-07-10
     release: 10
-    mergedPR: 174
+    mergedPR: 175
     openPR: 20
-    closedIssue: 48
-    openIssue: 37
-    commit: 170
+    closedIssue: 49
+    openIssue: 36
+    commit: 172
   last90d:
     since: 2026-06-10
     release: 15
-    mergedPR: 233
+    mergedPR: 234
     openPR: 21
-    closedIssue: 76
-    openIssue: 43
-    commit: 222
+    closedIssue: 77
+    openIssue: 42
+    commit: 224
   last180d:
     since: 2026-03-12
     release: 27
-    mergedPR: 522
+    mergedPR: 523
     openPR: 27
-    closedIssue: 150
-    openIssue: 62
-    commit: 451
+    closedIssue: 151
+    openIssue: 61
+    commit: 453
   last360d:
     since: 2025-09-13
     release: 42
-    mergedPR: 923
+    mergedPR: 924
     openPR: 32
-    closedIssue: 283
-    openIssue: 63
-    commit: 976
+    closedIssue: 284
+    openIssue: 62
+    commit: 978
   last720d:
     since: 2024-09-18
     release: 66
-    mergedPR: 1264
+    mergedPR: 1265
     openPR: 34
-    closedIssue: 476
-    openIssue: 73
-    commit: 1841
+    closedIssue: 477
+    openIssue: 72
+    commit: 1842
 total:
   release: 200
-  mergedPR: 3879
+  mergedPR: 3880
   openPR: 39
-  closedIssue: 4322
-  openIssue: 471
-  commit: 18283
+  closedIssue: 4323
+  openIssue: 470
+  commit: 18284
 ---
 path: /home/runner/.x-repo/github.com/sbt/sbt
-collectedAt: 2026-09-08T02:09:15Z
+collectedAt: 2026-09-08T05:08:40Z
 loc:
   Scala:
-    code: 109357
-    comments: 19102
-    blanks: 14802
-    files: 2096
+    code: 109931
+    comments: 19211
+    blanks: 14863
+    files: 2098
   Java:
     code: 3949
     comments: 827
@@ -169,19 +169,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 3604
-    blanks: 988
-    files: 105
+    comments: 3640
+    blanks: 997
+    files: 106
   Text:
     code: 0
     comments: 252
     blanks: 74
     files: 56
 total:
-  code: 117669
-  comments: 24106
-  blanks: 17068
-  files: 2441
+  code: 118243
+  comments: 24251
+  blanks: 17138
+  files: 2444
 ---
 date: "2026-08-24"
 repo:
