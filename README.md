@@ -23,7 +23,20 @@ x install sbt
 - **Latest**: `v2.0.8` (2026-08-28)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 9
-- **Published**: 2026-08-28T03:14:44Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [sbt-2.0.8.msi](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.msi) | 14.2 MiB | `other` |
+| [sbt-2.0.8.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.msi.asc) | 833 B | `other` |
+| [sbt-2.0.8.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.msi.sha256) | 80 B | `other` |
+| [sbt-2.0.8.tgz](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.tgz) | 55.0 MiB | `native/unknown` |
+| [sbt-2.0.8.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.tgz.asc) | 833 B | `other` |
+| [sbt-2.0.8.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.tgz.sha256) | 80 B | `other` |
+| [sbt-2.0.8.zip](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.zip) | 54.9 MiB | `other` |
+| [sbt-2.0.8.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.zip.asc) | 833 B | `other` |
+| [sbt-2.0.8.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.zip.sha256) | 80 B | `other` |
 
 ## Popularity
 
@@ -31,23 +44,23 @@ x install sbt
 
 ## Totals (cumulative)
 
-- **Releases**: 200 · **Merged PRs**: 3886 · **Open PRs**: 41 · **Closed issues**: 4326 · **Open issues**: 471 · **Commits**: 18292
+- **Releases**: 200 · **Merged PRs**: 3888 · **Open PRs**: 39 · **Closed issues**: 4328 · **Open issues**: 469 · **Commits**: 18296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 80 | 18 | 26 | 28 | 89 |
-| 90d | 2026-06-12 | 14 | 239 | 23 | 79 | 44 | 234 |
-| 360d | 2025-09-15 | 42 | 928 | 34 | 286 | 64 | 988 |
+| 30d | 2026-08-11 | 3 | 82 | 16 | 28 | 26 | 93 |
+| 90d | 2026-06-12 | 14 | 241 | 21 | 81 | 42 | 238 |
+| 360d | 2025-09-15 | 42 | 930 | 32 | 288 | 62 | 992 |
 
 ## Code size
 
-Total: **118,165** lines of code across **2256** files in the top 5 languages.
+Total: **118,183** lines of code across **2257** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 110,153 | 19,250 | 14,897 | 2105 |
+| Scala | 110,171 | 19,250 | 14,897 | 2106 |
 | Java | 3,953 | 842 | 684 | 139 |
 | Batch | 1,191 | 0 | 230 | 5 |
 | Json | 1,156 | 0 | 1 | 5 |
@@ -68,8 +81,8 @@ Lowest-scoring checks:
 Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sbt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sbt.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/sbt.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:17:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:48Z._
