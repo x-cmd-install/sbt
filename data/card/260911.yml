@@ -2,12 +2,12 @@ about:
   description: "sbt, the interactive build tool"
   license: Apache-2.0
   homepage: https://scala-sbt.org
-  head: 8e5e01e
+  head: ae0898f
   archived: false
   latestVersion: "v2.0.8"
   latestRelease: "v2.0.8"
   latestPrerelease: "v2.0.0-RC16"
-  collectedAt: 2026-09-11T05:21:19Z
+  collectedAt: 2026-09-11T19:33:01Z
 timeline:
   created: 2009-08-17
   lastCommit: 2026-09-11
@@ -20,10 +20,10 @@ popularity:
   fork: 1045
   release: 200
   contributor: 454
-  pullRequest: 4710
-  issue: 4797
+  pullRequest: 4712
+  issue: 4800
 language:
-  Scala: 5136898
+  Scala: 5136737
   Java: 167144
   Shell: 60280
   Batchfile: 41502
@@ -35,69 +35,69 @@ language:
   C: 971
   C++: 508
   PowerShell: 408
-totalBytes: 5421770
+totalBytes: 5421609
 recent:
   last30d:
     since: 2026-08-12
     release: 3
-    mergedPR: 90
-    openPR: 11
-    closedIssue: 27
-    openIssue: 24
-    commit: 106
+    mergedPR: 91
+    openPR: 12
+    closedIssue: 28
+    openIssue: 26
+    commit: 108
   last60d:
     since: 2026-07-13
     release: 10
-    mergedPR: 170
-    openPR: 16
-    closedIssue: 54
-    openIssue: 33
-    commit: 199
+    mergedPR: 171
+    openPR: 17
+    closedIssue: 55
+    openIssue: 35
+    commit: 201
   last90d:
     since: 2026-06-13
     release: 14
-    mergedPR: 247
-    openPR: 17
-    closedIssue: 82
-    openIssue: 40
-    commit: 251
+    mergedPR: 248
+    openPR: 18
+    closedIssue: 83
+    openIssue: 42
+    commit: 253
   last180d:
     since: 2026-03-15
     release: 27
-    mergedPR: 531
-    openPR: 23
-    closedIssue: 157
-    openIssue: 59
-    commit: 480
+    mergedPR: 532
+    openPR: 24
+    closedIssue: 158
+    openIssue: 61
+    commit: 482
   last360d:
     since: 2025-09-16
     release: 42
-    mergedPR: 939
-    openPR: 28
-    closedIssue: 290
-    openIssue: 60
-    commit: 1005
+    mergedPR: 940
+    openPR: 29
+    closedIssue: 291
+    openIssue: 62
+    commit: 1007
   last720d:
     since: 2024-09-21
     release: 66
-    mergedPR: 1280
-    openPR: 30
-    closedIssue: 482
-    openIssue: 70
-    commit: 1860
+    mergedPR: 1281
+    openPR: 31
+    closedIssue: 483
+    openIssue: 72
+    commit: 1861
 total:
   release: 200
-  mergedPR: 3897
-  openPR: 35
-  closedIssue: 4332
-  openIssue: 465
-  commit: 18308
+  mergedPR: 3898
+  openPR: 36
+  closedIssue: 4333
+  openIssue: 467
+  commit: 18309
 ---
 path: /home/runner/.x-repo/github.com/sbt/sbt
-collectedAt: 2026-09-11T05:21:26Z
+collectedAt: 2026-09-11T19:33:16Z
 loc:
   Scala:
-    code: 106109
+    code: 106102
     comments: 19316
     blanks: 14879
     files: 2113
@@ -182,7 +182,7 @@ loc:
     blanks: 74
     files: 56
 total:
-  code: 114443
+  code: 114436
   comments: 24508
   blanks: 17191
   files: 2463
