@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14880768,
       "digest": "sha256:a3464eead9fd1cdbae48c1914b1f9c1f0ff4393bebc8de64d39ec834ad21abc6",
-      "download_count": 2730,
+      "download_count": 2789,
       "created_at": "2026-08-28T03:06:05Z",
       "updated_at": "2026-08-28T03:06:07Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.msi"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:c5b1378a911b0f021ce6e64cadd2a1c0f4115b36cf930cd4056c2dcf0e5b5188",
-      "download_count": 1495,
+      "download_count": 1537,
       "created_at": "2026-08-28T03:06:07Z",
       "updated_at": "2026-08-28T03:06:07Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.msi.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 80,
       "digest": "sha256:256d3532af71b5c28ce4d65989a49c5dc09f7b1b02503114f32b7f2dca75c8f5",
-      "download_count": 2195,
+      "download_count": 2262,
       "created_at": "2026-08-28T03:06:07Z",
       "updated_at": "2026-08-28T03:06:07Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.msi.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 57687816,
       "digest": "sha256:40c2a31786d36a286f0d9e8bfdf51181e5408c4f99eab85556e2bcd5e12eab44",
-      "download_count": 6975,
+      "download_count": 7087,
       "created_at": "2026-08-28T03:06:07Z",
       "updated_at": "2026-08-28T03:06:09Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.tgz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:a014a74fe3545d7f66de65382363a8e8065a740659c7d5a3f0af80d453f21685",
-      "download_count": 1496,
+      "download_count": 1531,
       "created_at": "2026-08-28T03:06:09Z",
       "updated_at": "2026-08-28T03:06:09Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.tgz.asc"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 80,
       "digest": "sha256:fb4c06bad3d34a0a043b78132b91a095061fe1c73aa4fefa10d3a55888c5f240",
-      "download_count": 2366,
+      "download_count": 2433,
       "created_at": "2026-08-28T03:06:09Z",
       "updated_at": "2026-08-28T03:06:10Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.tgz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 57574169,
       "digest": "sha256:8cde344a0ea59bf3ac1df3c808bb82eabf44a93a2d7c817237f002dcca254e4b",
-      "download_count": 96820,
+      "download_count": 98740,
       "created_at": "2026-08-28T03:06:10Z",
       "updated_at": "2026-08-28T03:06:12Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:b260b2a2a48d97be497aad01194d5585e49f630a0f95f3948926a308453d6c08",
-      "download_count": 9972,
+      "download_count": 10627,
       "created_at": "2026-08-28T03:06:12Z",
       "updated_at": "2026-08-28T03:06:12Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.zip.asc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 80,
       "digest": "sha256:af3d7b09c39a28a899f8cc3eccf1861bcab61e4f95e66e2b6c1a876608fac36e",
-      "download_count": 3106,
+      "download_count": 3174,
       "created_at": "2026-08-28T03:06:12Z",
       "updated_at": "2026-08-28T03:06:12Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.zip.sha256"
