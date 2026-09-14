@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.0.8` (2026-08-28)
+- **Latest**: `v2.1.0-M1` (2026-08-28)
 - **Last commit**: 2026-09-13
 - **Assets in release**: 9
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 200 · **Merged PRs**: 3904 · **Open PRs**: 32 · **Closed issues**: 4335 · **Open issues**: 466 · **Commits**: 18315
+- **Releases**: 201 · **Merged PRs**: 3906 · **Open PRs**: 36 · **Closed issues**: 4336 · **Open issues**: 465 · **Commits**: 18316
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 87 | 9 | 27 | 21 | 82 |
-| last60d | 2026-07-15 | 9 | 171 | 13 | 55 | 34 | 188 |
-| 90d | 2026-06-15 | 12 | 244 | 14 | 81 | 41 | 252 |
-| last180d | 2026-03-17 | 26 | 535 | 20 | 159 | 60 | 449 |
-| 360d | 2025-09-18 | 42 | 943 | 25 | 291 | 61 | 997 |
-| last720d | 2024-09-23 | 66 | 1282 | 27 | 484 | 71 | 1855 |
+| 30d | 2026-08-15 | 4 | 86 | 13 | 27 | 19 | 83 |
+| last60d | 2026-07-16 | 10 | 167 | 17 | 55 | 32 | 189 |
+| 90d | 2026-06-16 | 13 | 246 | 18 | 81 | 40 | 253 |
+| last180d | 2026-03-18 | 27 | 534 | 24 | 159 | 59 | 450 |
+| 360d | 2025-09-19 | 43 | 944 | 29 | 292 | 60 | 998 |
+| last720d | 2024-09-24 | 67 | 1283 | 31 | 485 | 70 | 1856 |
 
 ## Release assets
 
@@ -79,17 +79,6 @@ Lowest-scoring checks:
 | [sbt-2.0.8.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.zip.asc) | 833 B | `other` |
 | [sbt-2.0.8.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.8/sbt-2.0.8.zip.sha256) | 80 B | `other` |
 
-## Distribution status
-
-Reported by **61** distros on [repology.org](https://repology.org/project/sbt). **15** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.0.8` | ✅ latest |
-| Homebrew | `2.0.8` | ✅ latest |
-| Nix unstable | `2.0.8` | ✅ latest |
-| Void | `1.6.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sbt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +88,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:23:21Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:40:58Z._
