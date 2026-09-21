@@ -14,11 +14,11 @@ x install sbt
 
 ## Code insight
 
-Total: **114,925** lines of code across **2277** files in the top 5 languages.
+Total: **115,278** lines of code across **2280** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 106,906 | 19,462 | 14,977 | 2125 |
+| Scala | 107,259 | 19,494 | 15,012 | 2128 |
 | Java | 3,959 | 842 | 685 | 140 |
 | Batch | 1,192 | 0 | 230 | 5 |
 | Json | 1,156 | 0 | 1 | 5 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.9` (2026-09-14)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-21
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 202 · **Merged PRs**: 3924 · **Open PRs**: 37 · **Closed issues**: 4351 · **Open issues**: 462 · **Commits**: 18334
+- **Releases**: 202 · **Merged PRs**: 3929 · **Open PRs**: 37 · **Closed issues**: 4355 · **Open issues**: 458 · **Commits**: 18341
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 5 | 74 | 12 | 29 | 11 | 79 |
-| last60d | 2026-07-22 | 9 | 171 | 17 | 62 | 29 | 170 |
-| 90d | 2026-06-22 | 13 | 253 | 18 | 85 | 40 | 255 |
-| last180d | 2026-03-24 | 27 | 506 | 25 | 165 | 59 | 458 |
-| 360d | 2025-09-25 | 43 | 956 | 29 | 300 | 59 | 989 |
-| last720d | 2024-09-30 | 68 | 1295 | 32 | 489 | 70 | 1853 |
+| 30d | 2026-08-22 | 3 | 79 | 12 | 31 | 9 | 87 |
+| last60d | 2026-07-23 | 9 | 170 | 17 | 63 | 27 | 178 |
+| 90d | 2026-06-23 | 13 | 255 | 18 | 86 | 37 | 263 |
+| last180d | 2026-03-25 | 27 | 506 | 25 | 167 | 57 | 466 |
+| 360d | 2025-09-26 | 43 | 960 | 29 | 302 | 57 | 997 |
+| last720d | 2024-10-01 | 68 | 1300 | 32 | 490 | 68 | 1854 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:26:31Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:32:35Z._
