@@ -26,7 +26,7 @@ Total: **116,003** lines of code across **2290** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 3942 · **Open PRs**: 32 · **Closed issues**: 4364 · **Open issues**: 455 · **Commits**: 18354
+- **Releases**: 203 · **Merged PRs**: 3942 · **Open PRs**: 32 · **Closed issues**: 4363 · **Open issues**: 456 · **Commits**: 18354
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 4 | 81 | 7 | 34 | 8 | 100 |
-| last60d | 2026-07-25 | 10 | 177 | 11 | 70 | 26 | 191 |
-| 90d | 2026-06-25 | 14 | 264 | 13 | 89 | 35 | 276 |
-| last180d | 2026-03-27 | 26 | 517 | 20 | 174 | 56 | 479 |
-| 360d | 2025-09-28 | 44 | 969 | 24 | 307 | 56 | 1010 |
-| last720d | 2024-10-03 | 69 | 1309 | 27 | 494 | 67 | 1857 |
+| 30d | 2026-08-25 | 4 | 79 | 6 | 31 | 9 | 100 |
+| last60d | 2026-07-26 | 10 | 172 | 11 | 67 | 27 | 191 |
+| 90d | 2026-06-26 | 14 | 262 | 13 | 86 | 36 | 276 |
+| last180d | 2026-03-28 | 26 | 516 | 20 | 173 | 57 | 479 |
+| 360d | 2025-09-29 | 44 | 964 | 24 | 306 | 57 | 1010 |
+| last720d | 2024-10-04 | 69 | 1308 | 27 | 491 | 68 | 1854 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:34:51Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:11:56Z._
