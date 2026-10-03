@@ -42,7 +42,7 @@ x install sbt
 
 ## 发布
 
-- **最新版本**: `v2.1.0-M3` (2026-09-14)
+- **最新版本**: `v2.0.10` (2026-10-02)
 - **最近提交**: 2026-10-02
 - **Release 含资产**: 9 个
 
@@ -52,32 +52,32 @@ x install sbt
 
 ## 累计统计
 
-- **发布数**: 204 · **已合并 PR**: 3971 · **开放 PR**: 32 · **已关闭 issue**: 4379 · **开放 issue**: 457 · **提交数**: 18391
+- **发布数**: 205 · **已合并 PR**: 3972 · **开放 PR**: 32 · **已关闭 issue**: 4379 · **开放 issue**: 457 · **提交数**: 18391
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 4 | 90 | 8 | 40 | 9 | 123 |
-| last60d | 2026-08-03 | 10 | 178 | 12 | 73 | 28 | 214 |
-| 90d | 2026-07-04 | 14 | 276 | 13 | 99 | 35 | 311 |
-| last180d | 2026-04-05 | 27 | 520 | 19 | 179 | 57 | 495 |
-| 360d | 2025-10-07 | 43 | 981 | 24 | 317 | 59 | 1027 |
-| last720d | 2024-10-12 | 70 | 1319 | 26 | 489 | 69 | 1778 |
+| 30d | 2026-09-03 | 5 | 91 | 8 | 40 | 9 | 123 |
+| last60d | 2026-08-04 | 10 | 175 | 12 | 72 | 28 | 214 |
+| 90d | 2026-07-05 | 15 | 276 | 13 | 99 | 35 | 311 |
+| last180d | 2026-04-06 | 28 | 518 | 19 | 179 | 56 | 495 |
+| 360d | 2025-10-08 | 44 | 982 | 24 | 314 | 59 | 1027 |
+| last720d | 2024-10-13 | 71 | 1320 | 26 | 489 | 69 | 1777 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [sbt-2.0.9.msi](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.msi) | 14.3 MiB | `other` |
-| [sbt-2.0.9.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.msi.asc) | 833 B | `other` |
-| [sbt-2.0.9.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.msi.sha256) | 80 B | `other` |
-| [sbt-2.0.9.tgz](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.tgz) | 55.8 MiB | `native/unknown` |
-| [sbt-2.0.9.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.tgz.asc) | 833 B | `other` |
-| [sbt-2.0.9.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.tgz.sha256) | 80 B | `other` |
-| [sbt-2.0.9.zip](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.zip) | 55.6 MiB | `other` |
-| [sbt-2.0.9.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.zip.asc) | 833 B | `other` |
-| [sbt-2.0.9.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.zip.sha256) | 80 B | `other` |
+| [sbt-2.0.10.msi](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi) | 14.4 MiB | `other` |
+| [sbt-2.0.10.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi.asc) | 833 B | `other` |
+| [sbt-2.0.10.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi.sha256) | 81 B | `other` |
+| [sbt-2.0.10.tgz](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz) | 53.9 MiB | `native/unknown` |
+| [sbt-2.0.10.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz.asc) | 833 B | `other` |
+| [sbt-2.0.10.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz.sha256) | 81 B | `other` |
+| [sbt-2.0.10.zip](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip) | 53.8 MiB | `other` |
+| [sbt-2.0.10.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip.asc) | 833 B | `other` |
+| [sbt-2.0.10.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip.sha256) | 81 B | `other` |
 
 ## 改进这些数据
 
@@ -88,4 +88,4 @@ sbt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T06:03:10Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T05:44:12Z._

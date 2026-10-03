@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.1.0-M3` (2026-09-14)
+- **Latest**: `v2.0.10` (2026-10-02)
 - **Last commit**: 2026-10-02
 - **Assets in release**: 9
 
@@ -52,32 +52,32 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 3971 · **Open PRs**: 32 · **Closed issues**: 4379 · **Open issues**: 457 · **Commits**: 18391
+- **Releases**: 205 · **Merged PRs**: 3972 · **Open PRs**: 32 · **Closed issues**: 4379 · **Open issues**: 457 · **Commits**: 18391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 4 | 90 | 8 | 40 | 9 | 123 |
-| last60d | 2026-08-03 | 10 | 178 | 12 | 73 | 28 | 214 |
-| 90d | 2026-07-04 | 14 | 276 | 13 | 99 | 35 | 311 |
-| last180d | 2026-04-05 | 27 | 520 | 19 | 179 | 57 | 495 |
-| 360d | 2025-10-07 | 43 | 981 | 24 | 317 | 59 | 1027 |
-| last720d | 2024-10-12 | 70 | 1319 | 26 | 489 | 69 | 1778 |
+| 30d | 2026-09-03 | 5 | 91 | 8 | 40 | 9 | 123 |
+| last60d | 2026-08-04 | 10 | 175 | 12 | 72 | 28 | 214 |
+| 90d | 2026-07-05 | 15 | 276 | 13 | 99 | 35 | 311 |
+| last180d | 2026-04-06 | 28 | 518 | 19 | 179 | 56 | 495 |
+| 360d | 2025-10-08 | 44 | 982 | 24 | 314 | 59 | 1027 |
+| last720d | 2024-10-13 | 71 | 1320 | 26 | 489 | 69 | 1777 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [sbt-2.0.9.msi](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.msi) | 14.3 MiB | `other` |
-| [sbt-2.0.9.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.msi.asc) | 833 B | `other` |
-| [sbt-2.0.9.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.msi.sha256) | 80 B | `other` |
-| [sbt-2.0.9.tgz](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.tgz) | 55.8 MiB | `native/unknown` |
-| [sbt-2.0.9.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.tgz.asc) | 833 B | `other` |
-| [sbt-2.0.9.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.tgz.sha256) | 80 B | `other` |
-| [sbt-2.0.9.zip](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.zip) | 55.6 MiB | `other` |
-| [sbt-2.0.9.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.zip.asc) | 833 B | `other` |
-| [sbt-2.0.9.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.9/sbt-2.0.9.zip.sha256) | 80 B | `other` |
+| [sbt-2.0.10.msi](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi) | 14.4 MiB | `other` |
+| [sbt-2.0.10.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi.asc) | 833 B | `other` |
+| [sbt-2.0.10.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi.sha256) | 81 B | `other` |
+| [sbt-2.0.10.tgz](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz) | 53.9 MiB | `native/unknown` |
+| [sbt-2.0.10.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz.asc) | 833 B | `other` |
+| [sbt-2.0.10.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz.sha256) | 81 B | `other` |
+| [sbt-2.0.10.zip](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip) | 53.8 MiB | `other` |
+| [sbt-2.0.10.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip.asc) | 833 B | `other` |
+| [sbt-2.0.10.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip.sha256) | 81 B | `other` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:03:09Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:44:11Z._
