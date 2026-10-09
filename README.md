@@ -14,12 +14,12 @@ x install sbt
 
 ## Code insight
 
-Total: **117,967** lines of code across **2315** files in the top 5 languages.
+Total: **118,036** lines of code across **2318** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 109,654 | 19,693 | 15,312 | 2163 |
-| Java | 4,203 | 851 | 714 | 140 |
+| Scala | 109,720 | 19,698 | 15,318 | 2165 |
+| Java | 4,206 | 851 | 714 | 141 |
 | Batch | 1,239 | 0 | 232 | 5 |
 | Json | 1,157 | 0 | 1 | 5 |
 | Bash | 899 | 81 | 103 | 2 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.10` (2026-10-02)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 205 · **Merged PRs**: 3980 · **Open PRs**: 30 · **Closed issues**: 4384 · **Open issues**: 454 · **Commits**: 18400
+- **Releases**: 205 · **Merged PRs**: 3982 · **Open PRs**: 29 · **Closed issues**: 4385 · **Open issues**: 453 · **Commits**: 18402
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 5 | 90 | 6 | 37 | 7 | 107 |
-| last60d | 2026-08-09 | 8 | 174 | 8 | 73 | 22 | 214 |
-| 90d | 2026-07-10 | 15 | 275 | 11 | 99 | 31 | 306 |
-| last180d | 2026-04-11 | 26 | 505 | 16 | 178 | 52 | 477 |
-| 360d | 2025-10-13 | 44 | 990 | 22 | 318 | 56 | 1038 |
-| last720d | 2024-10-18 | 71 | 1317 | 24 | 486 | 66 | 1764 |
+| 30d | 2026-09-09 | 5 | 87 | 5 | 35 | 7 | 109 |
+| last60d | 2026-08-10 | 8 | 175 | 7 | 73 | 22 | 216 |
+| 90d | 2026-07-11 | 15 | 266 | 10 | 99 | 30 | 308 |
+| last180d | 2026-04-12 | 26 | 498 | 13 | 179 | 51 | 479 |
+| 360d | 2025-10-14 | 44 | 992 | 21 | 319 | 55 | 1040 |
+| last720d | 2024-10-19 | 71 | 1317 | 23 | 487 | 65 | 1757 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:31:12Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:38:32Z._
