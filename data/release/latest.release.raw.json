@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15085568,
       "digest": "sha256:dd994a0b7975346bc7fd59bb356e8b153d9b3b46b3ccf3403878f8bd4b3962b2",
-      "download_count": 818,
+      "download_count": 895,
       "created_at": "2026-10-02T17:55:27Z",
       "updated_at": "2026-10-02T17:55:31Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 56496121,
       "digest": "sha256:783fe0c278564e67fbd14ecaa9ace6b9433cf8ece0ad8f50ad436cb24622105c",
-      "download_count": 2266,
+      "download_count": 2832,
       "created_at": "2026-10-02T17:55:32Z",
       "updated_at": "2026-10-02T17:55:44Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:cebb959da56f24fcce45a0f2c78330b70babe88a3dd1dc6967c778f13252cb43",
-      "download_count": 65,
+      "download_count": 71,
       "created_at": "2026-10-02T17:55:45Z",
       "updated_at": "2026-10-02T17:55:45Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 56379829,
       "digest": "sha256:6ff28e1dea38d1de48ea3d4e903f0380b85b19f945a103e30ec4298717c90cd7",
-      "download_count": 44188,
+      "download_count": 50565,
       "created_at": "2026-10-02T17:55:45Z",
       "updated_at": "2026-10-02T17:55:57Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:39e335ca9b92ef0b117ca3018088a8afe18f269f273d6f737264c57efe19e641",
-      "download_count": 390,
+      "download_count": 402,
       "created_at": "2026-10-02T17:55:57Z",
       "updated_at": "2026-10-02T17:55:57Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip.asc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:99764c2838d846ec4787385130d95188f17cae3448992d9b3344c7c3bc770b5a",
-      "download_count": 379,
+      "download_count": 445,
       "created_at": "2026-10-02T17:55:57Z",
       "updated_at": "2026-10-02T17:55:58Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip.sha256"
