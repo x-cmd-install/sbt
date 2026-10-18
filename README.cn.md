@@ -14,11 +14,11 @@ x install sbt
 
 ## 代码洞察
 
-合计: **119,006** 行代码（覆盖前 5 种语言、共 **2330** 个文件）。
+合计: **119,093** 行代码（覆盖前 5 种语言、共 **2342** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Scala | 110,690 | 19,760 | 15,433 | 2177 |
+| Scala | 110,777 | 19,770 | 15,449 | 2189 |
 | Java | 4,206 | 851 | 714 | 141 |
 | Batch | 1,239 | 0 | 232 | 5 |
 | Json | 1,157 | 0 | 1 | 5 |
@@ -42,42 +42,42 @@ x install sbt
 
 ## 发布
 
-- **最新版本**: `v2.1.0-RC1` (2026-10-02)
-- **最近提交**: 2026-10-16
+- **最新版本**: `v2.0.11` (2026-10-18)
+- **最近提交**: 2026-10-17
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 4,954 · **Fork**: 1,052 · **开放 issue**: 4,849 · **贡献者**: 457
+- **Star**: 4,954 · **Fork**: 1,052 · **开放 issue**: 4,849 · **贡献者**: 459
 
 ## 累计统计
 
-- **发布数**: 206 · **已合并 PR**: 4001 · **开放 PR**: 33 · **已关闭 issue**: 4394 · **开放 issue**: 455 · **提交数**: 18423
+- **发布数**: 207 · **已合并 PR**: 4005 · **开放 PR**: 30 · **已关闭 issue**: 4396 · **开放 issue**: 453 · **提交数**: 18429
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 4 | 75 | 7 | 30 | 9 | 100 |
-| last60d | 2026-08-18 | 9 | 168 | 10 | 70 | 17 | 217 |
-| 90d | 2026-07-19 | 13 | 256 | 13 | 102 | 31 | 313 |
-| last180d | 2026-04-20 | 26 | 502 | 16 | 176 | 49 | 491 |
-| 360d | 2025-10-22 | 45 | 1011 | 24 | 327 | 57 | 1063 |
-| last720d | 2024-10-27 | 71 | 1297 | 26 | 484 | 67 | 1685 |
+| 30d | 2026-09-18 | 5 | 75 | 4 | 32 | 7 | 80 |
+| last60d | 2026-08-19 | 10 | 162 | 6 | 70 | 14 | 192 |
+| 90d | 2026-07-20 | 14 | 254 | 10 | 103 | 26 | 285 |
+| last180d | 2026-04-21 | 27 | 506 | 13 | 177 | 47 | 484 |
+| 360d | 2025-10-23 | 46 | 1014 | 21 | 327 | 55 | 1068 |
+| last720d | 2024-10-28 | 72 | 1297 | 23 | 485 | 65 | 1687 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [sbt-2.0.10.msi](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi) | 14.4 MiB | `other` |
-| [sbt-2.0.10.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi.asc) | 833 B | `other` |
-| [sbt-2.0.10.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.msi.sha256) | 81 B | `other` |
-| [sbt-2.0.10.tgz](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz) | 53.9 MiB | `native/unknown` |
-| [sbt-2.0.10.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz.asc) | 833 B | `other` |
-| [sbt-2.0.10.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.tgz.sha256) | 81 B | `other` |
-| [sbt-2.0.10.zip](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip) | 53.8 MiB | `other` |
-| [sbt-2.0.10.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip.asc) | 833 B | `other` |
-| [sbt-2.0.10.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.10/sbt-2.0.10.zip.sha256) | 81 B | `other` |
+| [sbt-2.0.11.msi](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.msi) | 14.4 MiB | `other` |
+| [sbt-2.0.11.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.msi.asc) | 833 B | `other` |
+| [sbt-2.0.11.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.msi.sha256) | 81 B | `other` |
+| [sbt-2.0.11.tgz](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz) | 53.9 MiB | `native/unknown` |
+| [sbt-2.0.11.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz.asc) | 833 B | `other` |
+| [sbt-2.0.11.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz.sha256) | 81 B | `other` |
+| [sbt-2.0.11.zip](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip) | 53.8 MiB | `other` |
+| [sbt-2.0.11.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip.asc) | 833 B | `other` |
+| [sbt-2.0.11.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip.sha256) | 81 B | `other` |
 
 ## 改进这些数据
 
@@ -88,4 +88,4 @@ sbt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T04:49:11Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T04:53:16Z._
