@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15085568,
       "digest": "sha256:d8c9c919258add1a5579cf82689c42826cb09d929541548e2475da7f263734ca",
-      "download_count": 1,
+      "download_count": 56,
       "created_at": "2026-10-18T04:32:21Z",
       "updated_at": "2026-10-18T04:32:24Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.msi"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 56497099,
       "digest": "sha256:d8409a244e97c3839f27c4f435f49421196c126a450d30f4cf53522d39e3c379",
-      "download_count": 3,
+      "download_count": 311,
       "created_at": "2026-10-18T04:32:25Z",
       "updated_at": "2026-10-18T04:32:35Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:55c83dc226864f9633003fa4a07b5cad573e62922463664646ee43e24c79439b",
-      "download_count": 1,
+      "download_count": 12,
       "created_at": "2026-10-18T04:32:35Z",
       "updated_at": "2026-10-18T04:32:35Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz.asc"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:88bbaf338dae45578a0c04816919163367982c7450e86170ea255b1a6692d5ca",
-      "download_count": 1,
+      "download_count": 37,
       "created_at": "2026-10-18T04:32:35Z",
       "updated_at": "2026-10-18T04:32:35Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 56379827,
       "digest": "sha256:3f05a41886c00e87adb81c8ca28c3aa3d430753a640e6c4e83642c0c7a8d59d9",
-      "download_count": 57,
+      "download_count": 6903,
       "created_at": "2026-10-18T04:32:35Z",
       "updated_at": "2026-10-18T04:32:44Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:18eea887aa5644a7071ea6ad13a9e08743695c1c1ca400658a242cf0c247f4fe",
-      "download_count": 1,
+      "download_count": 30,
       "created_at": "2026-10-18T04:32:44Z",
       "updated_at": "2026-10-18T04:32:44Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip.asc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:edb6bb45abba8c16127c7321b095d1dc0a4c0f25da132f750d9f2f5a5ca15136",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-18T04:32:44Z",
       "updated_at": "2026-10-18T04:32:44Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip.sha256"
@@ -364,5 +364,17 @@
   "tarball_url": "https://api.github.com/repos/sbt/sbt/tarball/v2.0.11",
   "zipball_url": "https://api.github.com/repos/sbt/sbt/zipball/v2.0.11",
   "body": "## 🐛 bug fixes\r\n\r\n- fix: Fix AccessDeniedException writing SemanticDB by @eed3si9n in https://github.com/sbt/sbt/pull/9878\r\n- fix: Fixes `.m2/settings.xml` overriding sbtResolvers by @eed3si9n in https://github.com/sbt/sbt/pull/9828\r\n- fix: Keep accepting after a client fails by @kitbellew in https://github.com/sbt/sbt/pull/9691\r\n- fix: Fix task output lost by the thin client under CPU load by @eed3si9n in https://github.com/sbt/sbt/pull/9868\r\n- fix: Read all forked test output before reporting the fork's exit by @eugkhp in https://github.com/sbt/sbt/pull/9860\r\n- fix: Use Path.userHome to work around `user.home` returning `?` by @eed3si9n in https://github.com/sbt/sbt/pull/9866\r\n- fix: Fail a gRPC batch read when a blob fails by @eugkhp in https://github.com/sbt/sbt/pull/9904\r\n- fix: Fix pipelined compile hanging when compile inputs fail by @jleider in https://github.com/sbt/sbt/pull/9896\r\n- fix: Workaround compiler-interface eviction when depending on the remote cache plugin by @eed3si9n in https://github.com/sbt/sbt/pull/9913\r\n- Make logging robust against closed sbtn by @eed3si9n in https://github.com/sbt/sbt/pull/9911\r\n- fix: Fix BSP connection getting dropped by @eed3si9n in https://github.com/sbt/sbt/pull/9911\r\n\r\n## behind the scenes\r\n\r\n- Update mima setting by @eed3si9n in https://github.com/sbt/sbt/pull/9869\r\n\r\n**Full Changelog**: https://github.com/sbt/sbt/compare/v2.0.10...v2.0.11",
+  "reactions": {
+    "url": "https://api.github.com/repos/sbt/sbt/releases/416218456/reactions",
+    "total_count": 2,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 4
 }
