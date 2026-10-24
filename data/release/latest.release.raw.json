@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15085568,
       "digest": "sha256:d8c9c919258add1a5579cf82689c42826cb09d929541548e2475da7f263734ca",
-      "download_count": 1439,
+      "download_count": 2034,
       "created_at": "2026-10-18T04:32:21Z",
       "updated_at": "2026-10-18T04:32:24Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.msi"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:56a45b4ac3c45844bbd6260360c8a38737aecd48b70339c76186e02fcf17e8ce",
-      "download_count": 327,
+      "download_count": 424,
       "created_at": "2026-10-18T04:32:24Z",
       "updated_at": "2026-10-18T04:32:25Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.msi.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:9a2346252fa401f48653f7ac4e008f80171ede10724ce3dec426630319944e0a",
-      "download_count": 511,
+      "download_count": 651,
       "created_at": "2026-10-18T04:32:25Z",
       "updated_at": "2026-10-18T04:32:25Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.msi.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 56497099,
       "digest": "sha256:d8409a244e97c3839f27c4f435f49421196c126a450d30f4cf53522d39e3c379",
-      "download_count": 2828,
+      "download_count": 3482,
       "created_at": "2026-10-18T04:32:25Z",
       "updated_at": "2026-10-18T04:32:35Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:55c83dc226864f9633003fa4a07b5cad573e62922463664646ee43e24c79439b",
-      "download_count": 349,
+      "download_count": 446,
       "created_at": "2026-10-18T04:32:35Z",
       "updated_at": "2026-10-18T04:32:35Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz.asc"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:88bbaf338dae45578a0c04816919163367982c7450e86170ea255b1a6692d5ca",
-      "download_count": 817,
+      "download_count": 1014,
       "created_at": "2026-10-18T04:32:35Z",
       "updated_at": "2026-10-18T04:32:35Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.tgz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 56379827,
       "digest": "sha256:3f05a41886c00e87adb81c8ca28c3aa3d430753a640e6c4e83642c0c7a8d59d9",
-      "download_count": 40011,
+      "download_count": 46459,
       "created_at": "2026-10-18T04:32:35Z",
       "updated_at": "2026-10-18T04:32:44Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:18eea887aa5644a7071ea6ad13a9e08743695c1c1ca400658a242cf0c247f4fe",
-      "download_count": 558,
+      "download_count": 747,
       "created_at": "2026-10-18T04:32:44Z",
       "updated_at": "2026-10-18T04:32:44Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip.asc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:edb6bb45abba8c16127c7321b095d1dc0a4c0f25da132f750d9f2f5a5ca15136",
-      "download_count": 960,
+      "download_count": 1194,
       "created_at": "2026-10-18T04:32:44Z",
       "updated_at": "2026-10-18T04:32:44Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.11/sbt-2.0.11.zip.sha256"
