@@ -1,15 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: sbt
-  visiblename: sbt
-  version: 1.10.2
-  origversion: null
-  status: outdated
-  summary: Build tool for Scala, Java and more
-  maintainers:
-    - tim@nequissimus.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - BSD-3-Clause
 - repo: aosc
   srcname: app-devel/sbt
   binname: sbt
@@ -27,9 +15,9 @@
   srcname: sbt
   binname: sbt
   visiblename: sbt
-  version: 2.0.11
-  origversion: 1:2.0.11-1
-  status: outdated
+  version: 2.0.12
+  origversion: 1:2.0.12-1
+  status: newest
   summary: The interactive build tool
   licenses:
     - Apache-2.0
@@ -73,6 +61,30 @@
     - ale@freebsd.org
   categories:
     - devel
+- repo: nix_stable_24_11
+  srcname: sbt
+  visiblename: sbt
+  version: 1.10.2
+  origversion: null
+  status: outdated
+  summary: Build tool for Scala, Java and more
+  maintainers:
+    - tim@nequissimus.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_24_11
+  srcname: sbt-with-scala-native
+  visiblename: sbt
+  version: 1.10.2
+  origversion: null
+  status: outdated
+  summary: Build tool for Scala, Java and more
+  maintainers:
+    - tim@nequissimus.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - BSD-3-Clause
 - repo: gentoo
   srcname: dev-java/sbt
   visiblename: dev-java/sbt
@@ -229,18 +241,6 @@
     - supra4keanu@hotmail.com
   licenses:
     - BSD-3-Clause
-- repo: nix_stable_24_11
-  srcname: sbt-with-scala-native
-  visiblename: sbt
-  version: 1.10.2
-  origversion: null
-  status: outdated
-  summary: Build tool for Scala, Java and more
-  maintainers:
-    - tim@nequissimus.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - BSD-3-Clause
 - repo: nix_stable_25_05
   srcname: sbt
   visiblename: sbt
@@ -325,9 +325,9 @@
 - repo: nix_unstable
   srcname: sbt
   visiblename: sbt
-  version: 2.0.10
+  version: 2.0.12
   origversion: null
-  status: outdated
+  status: newest
   summary: Build tool for Scala, Java and more
   maintainers:
     - agilesteel@gmail.com
@@ -337,9 +337,9 @@
 - repo: nix_unstable
   srcname: sbt-with-scala-native
   visiblename: sbt
-  version: 2.0.10
+  version: 2.0.12
   origversion: null
-  status: outdated
+  status: newest
   summary: Build tool for Scala, Java and more, with the Scala Native toolchain
   maintainers:
     - agilesteel@gmail.com
@@ -349,9 +349,9 @@
 - repo: nix_unstable
   srcname: simpleBuildTool
   visiblename: sbt
-  version: 2.0.10
+  version: 2.0.12
   origversion: null
-  status: outdated
+  status: newest
   summary: Build tool for Scala, Java and more
   maintainers:
     - agilesteel@gmail.com
@@ -567,18 +567,6 @@
   categories:
     - Unspecified
 - repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: sbt
-  visiblename: sbt
-  version: 0.13.18
-  origversion: 0.13.18-150200.4.19.7
-  status: outdated
-  summary: The simple build tool for Scala and Java projects
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - Unspecified
-- repo: opensuse_leap_15_6
   subrepo: updates/sle
   srcname: sbt
   visiblename: sbt
@@ -602,6 +590,18 @@
     - BSD-3-Clause
   categories:
     - Unspecified
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: sbt
+  visiblename: sbt
+  version: 0.13.18
+  origversion: 0.13.18-150200.4.19.7
+  status: outdated
+  summary: The simple build tool for Scala and Java projects
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Unspecified
 - repo: pacstall
   srcname: sbt-deb
   binname: sbt-deb
@@ -617,9 +617,9 @@
   srcname: sbt
   binname: sbt
   visiblename: sbt
-  version: 2.0.11
-  origversion: 1:2.0.11-1
-  status: outdated
+  version: 2.0.12
+  origversion: 1:2.0.12-1
+  status: newest
   summary: The interactive build tool
   licenses:
     - Apache-2.0
@@ -687,7 +687,7 @@
   visiblename: sbt
   version: 2.1.0-M3
   origversion: null
-  status: devel
+  status: untrusted
   summary: A simple build tool
   maintainers:
     - rene@exactco.de
