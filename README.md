@@ -14,12 +14,12 @@ x install sbt
 
 ## Code insight
 
-Total: **122,930** lines of code across **2411** files in the top 5 languages.
+Total: **122,953** lines of code across **2412** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 114,538 | 19,946 | 15,790 | 2258 |
-| Java | 4,206 | 851 | 714 | 141 |
+| Scala | 114,560 | 19,946 | 15,794 | 2259 |
+| Java | 4,207 | 855 | 714 | 141 |
 | Batch | 1,239 | 0 | 232 | 5 |
 | Json | 1,157 | 0 | 1 | 5 |
 | Bash | 902 | 83 | 103 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.0-RC2` (2026-10-28)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 4,951 · **Forks**: 1,053 · **Open issues**: 4,882 · **Contributors**: 460
+- **Stars**: 4,952 · **Forks**: 1,053 · **Open issues**: 4,882 · **Contributors**: 460
 
 ## Totals (cumulative)
 
-- **Releases**: 210 · **Merged PRs**: 4085 · **Open PRs**: 30 · **Closed issues**: 4429 · **Open issues**: 453 · **Commits**: 18501
+- **Releases**: 210 · **Merged PRs**: 4087 · **Open PRs**: 28 · **Closed issues**: 4430 · **Open issues**: 452 · **Commits**: 18503
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 6 | 116 | 4 | 36 | 11 | 126 |
-| last60d | 2026-09-01 | 10 | 204 | 8 | 83 | 13 | 252 |
-| 90d | 2026-08-02 | 16 | 297 | 10 | 120 | 29 | 347 |
-| last180d | 2026-05-04 | 28 | 531 | 13 | 197 | 47 | 542 |
-| 360d | 2025-11-05 | 48 | 1088 | 21 | 352 | 58 | 1138 |
-| last720d | 2024-11-10 | 73 | 1362 | 23 | 501 | 66 | 1705 |
+| 30d | 2026-10-02 | 6 | 114 | 2 | 35 | 11 | 116 |
+| last60d | 2026-09-02 | 10 | 206 | 6 | 82 | 13 | 244 |
+| 90d | 2026-08-03 | 16 | 294 | 8 | 119 | 28 | 336 |
+| last180d | 2026-05-05 | 28 | 532 | 11 | 196 | 46 | 535 |
+| 360d | 2025-11-06 | 48 | 1090 | 19 | 351 | 58 | 1130 |
+| last720d | 2024-11-11 | 73 | 1364 | 21 | 501 | 66 | 1707 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:08:34Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:35:34Z._
