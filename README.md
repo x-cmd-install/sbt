@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,952 · **Forks**: 1,053 · **Open issues**: 4,882 · **Contributors**: 460
+- **Stars**: 4,953 · **Forks**: 1,053 · **Open issues**: 4,882 · **Contributors**: 460
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 6 | 114 | 2 | 35 | 11 | 116 |
-| last60d | 2026-09-02 | 10 | 206 | 6 | 82 | 13 | 244 |
-| 90d | 2026-08-03 | 16 | 294 | 8 | 119 | 28 | 336 |
-| last180d | 2026-05-05 | 28 | 532 | 11 | 196 | 46 | 535 |
-| 360d | 2025-11-06 | 48 | 1090 | 19 | 351 | 58 | 1130 |
-| last720d | 2024-11-11 | 73 | 1364 | 21 | 501 | 66 | 1707 |
+| 30d | 2026-10-03 | 5 | 113 | 2 | 34 | 11 | 116 |
+| last60d | 2026-09-03 | 10 | 206 | 6 | 82 | 13 | 244 |
+| 90d | 2026-08-04 | 15 | 290 | 8 | 118 | 28 | 336 |
+| last180d | 2026-05-06 | 28 | 529 | 11 | 195 | 46 | 535 |
+| 360d | 2025-11-07 | 48 | 1089 | 19 | 351 | 58 | 1130 |
+| last720d | 2024-11-12 | 73 | 1361 | 21 | 501 | 66 | 1707 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **61** distros on [repology.org](https://repology.org/project/sbt). **8** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
+Reported by **61** distros on [repology.org](https://repology.org/project/sbt). **9** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:35:34Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:37:38Z._
