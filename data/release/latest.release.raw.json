@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15093760,
       "digest": "sha256:65dfcb081e5b8657bd4960eb5874baf5167c741ab568d39f7af818b1d55cbf14",
-      "download_count": 1679,
+      "download_count": 1807,
       "created_at": "2026-10-28T05:40:31Z",
       "updated_at": "2026-10-28T05:40:32Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.msi"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 56524873,
       "digest": "sha256:a797e1d940260c9d6e8a0a434ff8fc3247c1b711d2cf302bae62ae243293fe55",
-      "download_count": 1619,
+      "download_count": 1929,
       "created_at": "2026-10-28T05:40:32Z",
       "updated_at": "2026-10-28T05:40:34Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:fedbd269775fbcf76d245ca3f84012e640f908f6574938695564da665bd7887c",
-      "download_count": 102,
+      "download_count": 115,
       "created_at": "2026-10-28T05:40:34Z",
       "updated_at": "2026-10-28T05:40:34Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.tgz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 56403852,
       "digest": "sha256:73f9c4a10584cde3d37d773e2b38d2fc4348c6cef8d88da8b7dd41e7d5f614d7",
-      "download_count": 39877,
+      "download_count": 45630,
       "created_at": "2026-10-28T05:40:34Z",
       "updated_at": "2026-10-28T05:40:36Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:c165f87a6e16ecbfc7a168dc4cc5b6da4203f17b26537891d1dc2a46caa73b87",
-      "download_count": 13543,
+      "download_count": 15773,
       "created_at": "2026-10-28T05:40:36Z",
       "updated_at": "2026-10-28T05:40:36Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip.asc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:2318751d63f5e242f3a2738889bc80157150b4e6237067282af3a4be3b1ebbcb",
-      "download_count": 406,
+      "download_count": 408,
       "created_at": "2026-10-28T05:40:36Z",
       "updated_at": "2026-10-28T05:40:36Z",
       "browser_download_url": "https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip.sha256"
