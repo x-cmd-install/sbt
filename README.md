@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,953 · **Forks**: 1,053 · **Open issues**: 4,882 · **Contributors**: 460
+- **Stars**: 4,953 · **Forks**: 1,053 · **Open issues**: 4,883 · **Contributors**: 460
 
 ## Totals (cumulative)
 
-- **Releases**: 210 · **Merged PRs**: 4087 · **Open PRs**: 28 · **Closed issues**: 4430 · **Open issues**: 452 · **Commits**: 18503
+- **Releases**: 210 · **Merged PRs**: 4087 · **Open PRs**: 29 · **Closed issues**: 4430 · **Open issues**: 453 · **Commits**: 18503
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 5 | 113 | 2 | 34 | 11 | 116 |
-| last60d | 2026-09-03 | 10 | 206 | 6 | 82 | 13 | 244 |
-| 90d | 2026-08-04 | 15 | 290 | 8 | 118 | 28 | 336 |
-| last180d | 2026-05-06 | 28 | 529 | 11 | 195 | 46 | 535 |
-| 360d | 2025-11-07 | 48 | 1089 | 19 | 351 | 58 | 1130 |
-| last720d | 2024-11-12 | 73 | 1361 | 21 | 501 | 66 | 1707 |
+| 30d | 2026-10-04 | 5 | 110 | 3 | 34 | 12 | 116 |
+| last60d | 2026-09-04 | 10 | 202 | 7 | 79 | 14 | 244 |
+| 90d | 2026-08-05 | 15 | 289 | 9 | 115 | 29 | 336 |
+| last180d | 2026-05-07 | 28 | 526 | 12 | 193 | 47 | 535 |
+| 360d | 2025-11-08 | 48 | 1088 | 20 | 350 | 59 | 1130 |
+| last720d | 2024-11-13 | 73 | 1360 | 22 | 501 | 67 | 1701 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:37:38Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:16:16Z._
