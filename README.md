@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 5 | 108 | 4 | 35 | 12 | 113 |
-| last60d | 2026-09-13 | 11 | 194 | 6 | 77 | 14 | 225 |
-| 90d | 2026-08-14 | 14 | 287 | 9 | 114 | 25 | 337 |
-| last180d | 2026-05-16 | 29 | 521 | 12 | 195 | 44 | 531 |
-| 360d | 2025-11-17 | 49 | 1097 | 20 | 353 | 60 | 1138 |
-| last720d | 2024-11-22 | 74 | 1365 | 23 | 501 | 67 | 1684 |
+| 30d | 2026-10-14 | 5 | 106 | 4 | 32 | 12 | 113 |
+| last60d | 2026-09-14 | 10 | 188 | 6 | 72 | 14 | 225 |
+| 90d | 2026-08-15 | 14 | 284 | 9 | 113 | 24 | 337 |
+| last180d | 2026-05-17 | 29 | 513 | 12 | 194 | 44 | 531 |
+| 360d | 2025-11-18 | 49 | 1097 | 20 | 353 | 60 | 1138 |
+| last720d | 2024-11-23 | 74 | 1364 | 23 | 501 | 67 | 1678 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:55:55Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:21:12Z._
