@@ -14,12 +14,12 @@ x install sbt
 
 ## Code insight
 
-Total: **123,227** lines of code across **2423** files in the top 5 languages.
+Total: **123,661** lines of code across **2427** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 114,770 | 19,972 | 15,826 | 2265 |
-| Java | 4,263 | 855 | 717 | 146 |
+| Scala | 115,221 | 20,052 | 15,920 | 2269 |
+| Java | 4,246 | 852 | 714 | 146 |
 | Batch | 1,239 | 0 | 232 | 5 |
 | Json | 1,157 | 0 | 1 | 5 |
 | Bash | 910 | 83 | 103 | 2 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.1.0-RC3` (2026-10-28)
-- **Last commit**: 2026-11-12
+- **Latest**: `v2.1.0` (2026-11-16)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,32 +52,32 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 4105 · **Open PRs**: 30 · **Closed issues**: 4438 · **Open issues**: 454 · **Commits**: 18519
+- **Releases**: 212 · **Merged PRs**: 4110 · **Open PRs**: 28 · **Closed issues**: 4440 · **Open issues**: 452 · **Commits**: 18524
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 5 | 100 | 4 | 31 | 12 | 76 |
-| last60d | 2026-09-16 | 9 | 182 | 6 | 69 | 14 | 189 |
-| 90d | 2026-08-17 | 14 | 277 | 9 | 110 | 21 | 310 |
-| last180d | 2026-05-19 | 28 | 508 | 12 | 193 | 44 | 523 |
-| 360d | 2025-11-20 | 49 | 1096 | 20 | 353 | 60 | 1121 |
-| last720d | 2024-11-25 | 74 | 1362 | 23 | 500 | 66 | 1676 |
+| 30d | 2026-10-17 | 6 | 103 | 2 | 33 | 10 | 83 |
+| last60d | 2026-09-17 | 10 | 184 | 4 | 70 | 12 | 196 |
+| 90d | 2026-08-18 | 15 | 277 | 7 | 111 | 19 | 317 |
+| last180d | 2026-05-20 | 29 | 511 | 10 | 194 | 42 | 530 |
+| 360d | 2025-11-21 | 50 | 1101 | 18 | 355 | 58 | 1128 |
+| last720d | 2024-11-26 | 75 | 1364 | 21 | 502 | 64 | 1678 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [sbt-2.0.12.msi](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.msi) | 14.4 MiB | `other` |
-| [sbt-2.0.12.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.msi.asc) | 833 B | `other` |
-| [sbt-2.0.12.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.msi.sha256) | 81 B | `other` |
-| [sbt-2.0.12.tgz](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.tgz) | 53.9 MiB | `native/unknown` |
-| [sbt-2.0.12.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.tgz.asc) | 833 B | `other` |
-| [sbt-2.0.12.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.tgz.sha256) | 81 B | `other` |
-| [sbt-2.0.12.zip](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip) | 53.8 MiB | `other` |
-| [sbt-2.0.12.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip.asc) | 833 B | `other` |
-| [sbt-2.0.12.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip.sha256) | 81 B | `other` |
+| [sbt-2.1.0.msi](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.msi) | 15.3 MiB | `other` |
+| [sbt-2.1.0.msi.asc](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.msi.asc) | 833 B | `other` |
+| [sbt-2.1.0.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.msi.sha256) | 80 B | `other` |
+| [sbt-2.1.0.tgz](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.tgz) | 55.0 MiB | `native/unknown` |
+| [sbt-2.1.0.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.tgz.asc) | 833 B | `other` |
+| [sbt-2.1.0.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.tgz.sha256) | 80 B | `other` |
+| [sbt-2.1.0.zip](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.zip) | 54.8 MiB | `other` |
+| [sbt-2.1.0.zip.asc](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.zip.asc) | 833 B | `other` |
+| [sbt-2.1.0.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.zip.sha256) | 80 B | `other` |
 
 ## Distribution status
 
@@ -99,4 +99,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:59:20Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:24:38Z._

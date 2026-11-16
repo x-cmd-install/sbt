@@ -14,12 +14,12 @@ x install sbt
 
 ## 代码洞察
 
-合计: **123,227** 行代码（覆盖前 5 种语言、共 **2423** 个文件）。
+合计: **123,661** 行代码（覆盖前 5 种语言、共 **2427** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Scala | 114,770 | 19,972 | 15,826 | 2265 |
-| Java | 4,263 | 855 | 717 | 146 |
+| Scala | 115,221 | 20,052 | 15,920 | 2269 |
+| Java | 4,246 | 852 | 714 | 146 |
 | Batch | 1,239 | 0 | 232 | 5 |
 | Json | 1,157 | 0 | 1 | 5 |
 | Bash | 910 | 83 | 103 | 2 |
@@ -42,8 +42,8 @@ x install sbt
 
 ## 发布
 
-- **最新版本**: `v2.1.0-RC3` (2026-10-28)
-- **最近提交**: 2026-11-12
+- **最新版本**: `v2.1.0` (2026-11-16)
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 9 个
 
 ## 流行度
@@ -52,32 +52,32 @@ x install sbt
 
 ## 累计统计
 
-- **发布数**: 211 · **已合并 PR**: 4105 · **开放 PR**: 30 · **已关闭 issue**: 4438 · **开放 issue**: 454 · **提交数**: 18519
+- **发布数**: 212 · **已合并 PR**: 4110 · **开放 PR**: 28 · **已关闭 issue**: 4440 · **开放 issue**: 452 · **提交数**: 18524
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 5 | 100 | 4 | 31 | 12 | 76 |
-| last60d | 2026-09-16 | 9 | 182 | 6 | 69 | 14 | 189 |
-| 90d | 2026-08-17 | 14 | 277 | 9 | 110 | 21 | 310 |
-| last180d | 2026-05-19 | 28 | 508 | 12 | 193 | 44 | 523 |
-| 360d | 2025-11-20 | 49 | 1096 | 20 | 353 | 60 | 1121 |
-| last720d | 2024-11-25 | 74 | 1362 | 23 | 500 | 66 | 1676 |
+| 30d | 2026-10-17 | 6 | 103 | 2 | 33 | 10 | 83 |
+| last60d | 2026-09-17 | 10 | 184 | 4 | 70 | 12 | 196 |
+| 90d | 2026-08-18 | 15 | 277 | 7 | 111 | 19 | 317 |
+| last180d | 2026-05-20 | 29 | 511 | 10 | 194 | 42 | 530 |
+| 360d | 2025-11-21 | 50 | 1101 | 18 | 355 | 58 | 1128 |
+| last720d | 2024-11-26 | 75 | 1364 | 21 | 502 | 64 | 1678 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [sbt-2.0.12.msi](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.msi) | 14.4 MiB | `other` |
-| [sbt-2.0.12.msi.asc](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.msi.asc) | 833 B | `other` |
-| [sbt-2.0.12.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.msi.sha256) | 81 B | `other` |
-| [sbt-2.0.12.tgz](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.tgz) | 53.9 MiB | `native/unknown` |
-| [sbt-2.0.12.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.tgz.asc) | 833 B | `other` |
-| [sbt-2.0.12.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.tgz.sha256) | 81 B | `other` |
-| [sbt-2.0.12.zip](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip) | 53.8 MiB | `other` |
-| [sbt-2.0.12.zip.asc](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip.asc) | 833 B | `other` |
-| [sbt-2.0.12.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.0.12/sbt-2.0.12.zip.sha256) | 81 B | `other` |
+| [sbt-2.1.0.msi](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.msi) | 15.3 MiB | `other` |
+| [sbt-2.1.0.msi.asc](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.msi.asc) | 833 B | `other` |
+| [sbt-2.1.0.msi.sha256](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.msi.sha256) | 80 B | `other` |
+| [sbt-2.1.0.tgz](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.tgz) | 55.0 MiB | `native/unknown` |
+| [sbt-2.1.0.tgz.asc](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.tgz.asc) | 833 B | `other` |
+| [sbt-2.1.0.tgz.sha256](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.tgz.sha256) | 80 B | `other` |
+| [sbt-2.1.0.zip](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.zip) | 54.8 MiB | `other` |
+| [sbt-2.1.0.zip.asc](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.zip.asc) | 833 B | `other` |
+| [sbt-2.1.0.zip.sha256](https://github.com/sbt/sbt/releases/download/v2.1.0/sbt-2.1.0.zip.sha256) | 80 B | `other` |
 
 ## 发行版状态
 
@@ -99,4 +99,4 @@ sbt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T06:59:21Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:24:39Z._
