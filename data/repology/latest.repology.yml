@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: sbt
+  visiblename: sbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Build tool for Scala projects
 - repo: aosc
   srcname: app-devel/sbt
   binname: sbt
@@ -17,7 +24,7 @@
   visiblename: sbt
   version: 2.0.12
   origversion: 1:2.0.12-1
-  status: newest
+  status: outdated
   summary: The interactive build tool
   licenses:
     - Apache-2.0
@@ -26,7 +33,7 @@
   visiblename: sbt
   version: 2.0.12
   origversion: null
-  status: newest
+  status: outdated
   summary: The interactive build tool
 - repo: chromebrew
   srcname: sbt
@@ -87,25 +94,6 @@
     - BSD
   categories:
     - dev-java
-- repo: homebrew
-  srcname: sbt
-  visiblename: sbt
-  version: 2.0.12
-  origversion: null
-  status: newest
-  summary: Build tool for Scala projects
-- repo: nix_stable_25_11
-  srcname: sbt-with-scala-native
-  visiblename: sbt
-  version: 1.11.7
-  origversion: null
-  status: outdated
-  summary: Build tool for Scala, Java and more
-  maintainers:
-    - tim@nequissimus.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - BSD-3-Clause
 - repo: liguros_stable
   srcname: dev-java/sbt-bin
   visiblename: dev-java/sbt-bin
@@ -190,7 +178,7 @@
   visiblename: sbt
   version: 2.0.12
   origversion: 1:2.0.12-1
-  status: newest
+  status: outdated
   summary: The interactive build tool
   licenses:
     - Apache-2.0
@@ -201,7 +189,7 @@
   visiblename: sbt
   version: 2.0.12
   origversion: 1:2.0.12-1
-  status: newest
+  status: outdated
   summary: The interactive build tool
   licenses:
     - Apache-2.0
@@ -289,6 +277,18 @@
     - supra4keanu@hotmail.com
   licenses:
     - BSD-3-Clause
+- repo: nix_stable_25_11
+  srcname: sbt-with-scala-native
+  visiblename: sbt
+  version: 1.11.7
+  origversion: null
+  status: outdated
+  summary: Build tool for Scala, Java and more
+  maintainers:
+    - tim@nequissimus.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - BSD-3-Clause
 - repo: nix_stable_26_05
   srcname: sbt
   visiblename: sbt
@@ -327,7 +327,7 @@
   visiblename: sbt
   version: 2.0.12
   origversion: null
-  status: newest
+  status: outdated
   summary: Build tool for Scala, Java and more
   maintainers:
     - agilesteel@gmail.com
@@ -339,7 +339,7 @@
   visiblename: sbt
   version: 2.0.12
   origversion: null
-  status: newest
+  status: outdated
   summary: Build tool for Scala, Java and more, with the Scala Native toolchain
   maintainers:
     - agilesteel@gmail.com
@@ -351,7 +351,7 @@
   visiblename: sbt
   version: 2.0.12
   origversion: null
-  status: newest
+  status: outdated
   summary: Build tool for Scala, Java and more
   maintainers:
     - agilesteel@gmail.com
@@ -431,15 +431,6 @@
     - BSD
   categories:
     - Unspecified
-- repo: scoop
-  subrepo: main
-  binname: sbt
-  visiblename: sbt
-  version: 2.0.12
-  origversion: null
-  status: newest
-  licenses:
-    - BSD-3-Clause
 - repo: openeuler_24_03_lts
   srcname: sbt
   binnames:
@@ -565,18 +556,6 @@
   categories:
     - Unspecified
 - repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: sbt
-  visiblename: sbt
-  version: 0.13.18
-  origversion: 0.13.18-150200.4.19.7
-  status: outdated
-  summary: The simple build tool for Scala and Java projects
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - Unspecified
-- repo: opensuse_leap_15_6
   subrepo: updates/sle
   srcname: sbt
   visiblename: sbt
@@ -600,6 +579,18 @@
     - BSD-3-Clause
   categories:
     - Unspecified
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: sbt
+  visiblename: sbt
+  version: 0.13.18
+  origversion: 0.13.18-150200.4.19.7
+  status: outdated
+  summary: The simple build tool for Scala and Java projects
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Unspecified
 - repo: pacstall
   srcname: sbt-deb
   binname: sbt-deb
@@ -617,7 +608,7 @@
   visiblename: sbt
   version: 2.0.12
   origversion: 1:2.0.12-1
-  status: newest
+  status: outdated
   summary: The interactive build tool
   licenses:
     - Apache-2.0
@@ -637,6 +628,15 @@
     - BSD
   categories:
     - Development/Java
+- repo: scoop
+  subrepo: main
+  binname: sbt
+  visiblename: sbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  licenses:
+    - BSD-3-Clause
 - repo: slackbuilds
   srcname: development/sbt
   visiblename: development/sbt
@@ -676,7 +676,7 @@
   visiblename: sbt
   version: 2.1.0-M3
   origversion: null
-  status: untrusted
+  status: outdated
   summary: A simple build tool
   maintainers:
     - rene@exactco.de
@@ -700,7 +700,7 @@
 - repo: wikidata
   srcname: Q7520651
   visiblename: sbt
-  version: 2.0.12
+  version: 2.1.0
   origversion: null
   status: newest
   summary: open-source build software for Scala and Java projects
