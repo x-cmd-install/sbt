@@ -1,10 +1,15 @@
-- repo: homebrew
-  srcname: sbt
+- repo: nix_stable_25_11
+  srcname: sbt-with-scala-native
   visiblename: sbt
-  version: 2.1.0
+  version: 1.11.7
   origversion: null
-  status: newest
-  summary: Build tool for Scala projects
+  status: outdated
+  summary: Build tool for Scala, Java and more
+  maintainers:
+    - tim@nequissimus.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - BSD-3-Clause
 - repo: aosc
   srcname: app-devel/sbt
   binname: sbt
@@ -44,6 +49,36 @@
   summary: A build tool for Scala, Java and more.
   licenses:
     - BSD
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: sbt
+  binnames:
+    - sbt
+    - libsbt-scala3-java
+  visiblename: sbt
+  version: 2.0.12
+  origversion: 2.0.12+ds-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - juan.mendezr@proton.me
+  categories:
+    - java
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: sbt
+  binnames:
+    - sbt
+    - libsbt-scala3-java
+  visiblename: sbt
+  version: 2.0.12
+  origversion: 2.0.12+ds-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - juan.mendezr@proton.me
+  categories:
+    - java
 - repo: exherbo
   subrepo: keruspe
   srcname: dev-scala/sbt
@@ -94,6 +129,13 @@
     - BSD
   categories:
     - dev-java
+- repo: homebrew
+  srcname: sbt
+  visiblename: sbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  summary: Build tool for Scala projects
 - repo: liguros_stable
   srcname: dev-java/sbt-bin
   visiblename: dev-java/sbt-bin
@@ -277,18 +319,6 @@
     - supra4keanu@hotmail.com
   licenses:
     - BSD-3-Clause
-- repo: nix_stable_25_11
-  srcname: sbt-with-scala-native
-  visiblename: sbt
-  version: 1.11.7
-  origversion: null
-  status: outdated
-  summary: Build tool for Scala, Java and more
-  maintainers:
-    - tim@nequissimus.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - BSD-3-Clause
 - repo: nix_stable_26_05
   srcname: sbt
   visiblename: sbt
@@ -431,6 +461,15 @@
     - BSD
   categories:
     - Unspecified
+- repo: scoop
+  subrepo: main
+  binname: sbt
+  visiblename: sbt
+  version: 2.1.0
+  origversion: null
+  status: newest
+  licenses:
+    - BSD-3-Clause
 - repo: openeuler_24_03_lts
   srcname: sbt
   binnames:
@@ -556,6 +595,18 @@
   categories:
     - Unspecified
 - repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: sbt
+  visiblename: sbt
+  version: 0.13.18
+  origversion: 0.13.18-150200.4.19.7
+  status: outdated
+  summary: The simple build tool for Scala and Java projects
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Unspecified
+- repo: opensuse_leap_15_6
   subrepo: updates/sle
   srcname: sbt
   visiblename: sbt
@@ -573,18 +624,6 @@
   visiblename: sbt
   version: 0.13.18
   origversion: 0.13.18-150200.4.27.4
-  status: outdated
-  summary: The simple build tool for Scala and Java projects
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - Unspecified
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: sbt
-  visiblename: sbt
-  version: 0.13.18
-  origversion: 0.13.18-150200.4.19.7
   status: outdated
   summary: The simple build tool for Scala and Java projects
   licenses:
@@ -628,15 +667,6 @@
     - BSD
   categories:
     - Development/Java
-- repo: scoop
-  subrepo: main
-  binname: sbt
-  visiblename: sbt
-  version: 2.1.0
-  origversion: null
-  status: newest
-  licenses:
-    - BSD-3-Clause
 - repo: slackbuilds
   srcname: development/sbt
   visiblename: development/sbt
