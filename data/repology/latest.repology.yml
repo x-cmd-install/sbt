@@ -10,6 +10,45 @@
     - supra4keanu@hotmail.com
   licenses:
     - BSD-3-Clause
+- repo: openeuler_22_03_lts_sp4
+  srcname: sbt
+  binnames:
+    - sbt
+  visiblename: sbt
+  version: 0.13.1
+  origversion: 0.13.1-2.oe2203sp4
+  status: outdated
+  summary: The simple build tool for Scala and Java projects
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+- repo: liguros_stable
+  srcname: dev-java/sbt-bin
+  visiblename: dev-java/sbt-bin
+  version: 1.8.0
+  origversion: null
+  status: outdated
+  summary: sbt, a build tool for Scala
+  maintainers:
+    - java@gentoo.org
+  licenses:
+    - BSD
+  categories:
+    - dev-java
+- repo: gentoo
+  srcname: dev-java/sbt-bin
+  visiblename: dev-java/sbt-bin
+  version: 1.8.0
+  origversion: null
+  status: outdated
+  summary: sbt, a build tool for Scala
+  maintainers:
+    - maintainer-needed@gentoo.org
+  licenses:
+    - BSD
+  categories:
+    - dev-java
 - repo: aosc
   srcname: app-devel/sbt
   binname: sbt
@@ -116,19 +155,6 @@
     - BSD
   categories:
     - dev-java
-- repo: gentoo
-  srcname: dev-java/sbt-bin
-  visiblename: dev-java/sbt-bin
-  version: 1.8.0
-  origversion: null
-  status: outdated
-  summary: sbt, a build tool for Scala
-  maintainers:
-    - maintainer-needed@gentoo.org
-  licenses:
-    - BSD
-  categories:
-    - dev-java
 - repo: homebrew
   srcname: sbt
   visiblename: sbt
@@ -136,19 +162,15 @@
   origversion: null
   status: newest
   summary: Build tool for Scala projects
-- repo: liguros_stable
-  srcname: dev-java/sbt-bin
-  visiblename: dev-java/sbt-bin
-  version: 1.8.0
+- repo: scoop
+  subrepo: main
+  binname: sbt
+  visiblename: sbt
+  version: 2.1.0
   origversion: null
-  status: outdated
-  summary: sbt, a build tool for Scala
-  maintainers:
-    - java@gentoo.org
+  status: newest
   licenses:
-    - BSD
-  categories:
-    - dev-java
+    - BSD-3-Clause
 - repo: liguros_stable
   srcname: dev-java/sbt
   visiblename: dev-java/sbt
@@ -448,28 +470,6 @@
     - BSD
   categories:
     - Unspecified
-- repo: openeuler_22_03_lts_sp4
-  srcname: sbt
-  binnames:
-    - sbt
-  visiblename: sbt
-  version: 0.13.1
-  origversion: 0.13.1-2.oe2203sp4
-  status: outdated
-  summary: The simple build tool for Scala and Java projects
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
-- repo: scoop
-  subrepo: main
-  binname: sbt
-  visiblename: sbt
-  version: 2.1.0
-  origversion: null
-  status: newest
-  licenses:
-    - BSD-3-Clause
 - repo: openeuler_24_03_lts
   srcname: sbt
   binnames:
@@ -735,4 +735,4 @@
   status: newest
   summary: open-source build software for Scala and Java projects
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
