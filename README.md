@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,957 · **Forks**: 1,054 · **Open issues**: 4,901 · **Contributors**: 462
+- **Stars**: 4,957 · **Forks**: 1,054 · **Open issues**: 4,904 · **Contributors**: 462
 
 ## Totals (cumulative)
 
-- **Releases**: 213 · **Merged PRs**: 4131 · **Open PRs**: 31 · **Closed issues**: 4452 · **Open issues**: 449 · **Commits**: 18548
+- **Releases**: 213 · **Merged PRs**: 4131 · **Open PRs**: 37 · **Closed issues**: 4453 · **Open issues**: 451 · **Commits**: 18548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 6 | 90 | 4 | 28 | 7 | 77 |
-| last60d | 2026-09-24 | 10 | 184 | 5 | 69 | 11 | 205 |
-| 90d | 2026-08-25 | 14 | 266 | 9 | 108 | 14 | 322 |
-| last180d | 2026-05-27 | 30 | 524 | 13 | 203 | 38 | 546 |
-| 360d | 2025-11-28 | 49 | 1113 | 21 | 360 | 55 | 1157 |
-| last720d | 2024-12-03 | 75 | 1378 | 24 | 512 | 61 | 1675 |
+| 30d | 2026-10-25 | 6 | 86 | 10 | 25 | 9 | 77 |
+| last60d | 2026-09-25 | 10 | 181 | 11 | 65 | 14 | 205 |
+| 90d | 2026-08-26 | 14 | 264 | 15 | 105 | 17 | 322 |
+| last180d | 2026-05-28 | 30 | 522 | 19 | 203 | 40 | 546 |
+| 360d | 2025-11-29 | 49 | 1112 | 27 | 361 | 57 | 1157 |
+| last720d | 2024-12-04 | 75 | 1378 | 30 | 513 | 63 | 1675 |
 
 ## Release assets
 
@@ -81,14 +81,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **62** distros on [repology.org](https://repology.org/project/sbt). **4** are ✅ on the latest upstream release, **58** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/sbt). **5** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.0.12` | ⚠️ outdated |
 | Arch | `2.0.12` | ⚠️ outdated |
-| Homebrew | `2.1.0` | ✅ latest |
-| Nix unstable | `2.0.12` | ⚠️ outdated |
+| Homebrew | `2.1.1` | ✅ latest |
+| Nix unstable | `2.1.0` | ⚠️ outdated |
 | Void | `1.6.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -100,4 +100,4 @@ Install metadata for sbt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:01:08Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:20:25Z._
